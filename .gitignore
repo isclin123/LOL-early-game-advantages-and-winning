@@ -1,0 +1,18 @@
+# Saved copies of third-party pages from the external source check (~28 MB).
+# The audit trail does not depend on them: source_page_manifest.json and
+# timeline_page_manifest.json record every URL with its SHA-256, and
+# combined_results.json / kill_timeline_results.json hold the field-by-field
+# comparison those pages were read for.
+audit/source_check_2026-10-20/*.html
+
+# R session leftovers
+.Rhistory
+.RData
+.Rapp.history
+.Rproj.user/
+Rplots.pdf
+
+# Operating system noise
+Thumbs.db
+Desktop.ini
+.DS_Store

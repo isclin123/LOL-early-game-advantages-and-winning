@@ -1,0 +1,22 @@
+{
+  "revision": "teacher_feedback_2026-10-20",
+  "pages": 1,
+  "author": "Sicheng Yi",
+  "core_questions": 3,
+  "teacher_comments_mapped": 11,
+  "outcome": "blue-side final victory, 1/0",
+  "train_games": 313,
+  "validation_games": 169,
+  "source_refit_games": 482,
+  "temporal_test_games": 555,
+  "external_test_games": 306,
+  "source_links": [
+    "https://oracleselixir.com/tools/downloads",
+    "https://chaincc.lol/about/methodology",
+    "https://chaincc.lol/free/data"
+  ],
+  "abbreviation_check": "passed",
+  "visual_review": "passed",
+  "statistical_models_fitted": false,
+  "previous_question_bank": "retained as historical planning material"
+}

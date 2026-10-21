@@ -1,0 +1,992 @@
+[
+  {
+    "game_id": "LOLTMNT02_22165",
+    "game_number": 1,
+    "local_date": "2024-01-17",
+    "external_date": "2024-01-17",
+    "date_match": true,
+    "local_patch": "14.01",
+    "external_patch": "14.1",
+    "patch_match": true,
+    "local_blue": "DRX",
+    "external_blue": "DRX",
+    "local_red": "Nongshim RedForce",
+    "external_red": "Nongshim RedForce",
+    "team_side_match_with_documented_aliases": true,
+    "literal_team_name_match": true,
+    "local_blue_win": false,
+    "external_blue_win": false,
+    "result_match": true,
+    "external_complementary_outcomes": true,
+    "local_duration_seconds": 2507,
+    "external_duration_seconds": 2507,
+    "duration_difference_seconds": 0,
+    "early_fields": {
+      "golddiffat15": {
+        "local": 3915,
+        "external": 3915,
+        "match": true,
+        "blue_player_values": [
+          368,
+          878,
+          755,
+          1424,
+          490
+        ],
+        "red_player_values": [
+          -368,
+          -878,
+          -755,
+          -1424,
+          -490
+        ]
+      },
+      "csdiffat15": {
+        "local": 74,
+        "external": 74,
+        "match": true,
+        "blue_player_values": [
+          4,
+          31,
+          22,
+          6,
+          11
+        ],
+        "red_player_values": [
+          -4,
+          -31,
+          -22,
+          -6,
+          -11
+        ]
+      },
+      "xpdiffat15": {
+        "local": 1408,
+        "external": 1408,
+        "match": true,
+        "blue_player_values": [
+          195,
+          682,
+          459,
+          290,
+          -218
+        ],
+        "red_player_values": [
+          -195,
+          -682,
+          -459,
+          -290,
+          218
+        ]
+      }
+    },
+    "gold_chart15": 3915.0,
+    "gold_chart15_match": true,
+    "kills15_status": "not_yet_checked",
+    "source_urls": [
+      "https://gol.gg/game/stats/53702/page-game/",
+      "https://gol.gg/game/stats/53702/page-fullstats/"
+    ],
+    "selection_reason": "First chronological game in patch 14.01"
+  },
+  {
+    "game_id": "LOLTMNT01_55642",
+    "game_number": 1,
+    "local_date": "2024-02-14",
+    "external_date": "2024-02-14",
+    "date_match": true,
+    "local_patch": "14.02",
+    "external_patch": "14.2",
+    "patch_match": true,
+    "local_blue": "KT Rolster",
+    "external_blue": "KT Rolster",
+    "local_red": "Gen.G",
+    "external_red": "Gen.G eSports",
+    "team_side_match_with_documented_aliases": true,
+    "literal_team_name_match": false,
+    "local_blue_win": true,
+    "external_blue_win": true,
+    "result_match": true,
+    "external_complementary_outcomes": true,
+    "local_duration_seconds": 1933,
+    "external_duration_seconds": 1933,
+    "duration_difference_seconds": 0,
+    "early_fields": {
+      "golddiffat15": {
+        "local": 177,
+        "external": 177,
+        "match": true,
+        "blue_player_values": [
+          -814,
+          1098,
+          -13,
+          -1335,
+          1241
+        ],
+        "red_player_values": [
+          814,
+          -1098,
+          13,
+          1335,
+          -1241
+        ]
+      },
+      "csdiffat15": {
+        "local": -38,
+        "external": -38,
+        "match": true,
+        "blue_player_values": [
+          -7,
+          -22,
+          0,
+          -97,
+          88
+        ],
+        "red_player_values": [
+          7,
+          22,
+          0,
+          97,
+          -88
+        ]
+      },
+      "xpdiffat15": {
+        "local": 820,
+        "external": 820,
+        "match": true,
+        "blue_player_values": [
+          232,
+          -312,
+          -208,
+          -1799,
+          2907
+        ],
+        "red_player_values": [
+          -232,
+          312,
+          208,
+          1799,
+          -2907
+        ]
+      }
+    },
+    "gold_chart15": 177.0,
+    "gold_chart15_match": true,
+    "kills15_status": "not_yet_checked",
+    "source_urls": [
+      "https://gol.gg/game/stats/54907/page-game/",
+      "https://gol.gg/game/stats/54907/page-fullstats/"
+    ],
+    "selection_reason": "First chronological game in patch 14.02"
+  },
+  {
+    "game_id": "LOLTMNT02_52081",
+    "game_number": 1,
+    "local_date": "2024-02-21",
+    "external_date": "2024-02-21",
+    "date_match": true,
+    "local_patch": "14.03",
+    "external_patch": "14.3",
+    "patch_match": true,
+    "local_blue": "T1",
+    "external_blue": "T1",
+    "local_red": "Nongshim RedForce",
+    "external_red": "Nongshim RedForce",
+    "team_side_match_with_documented_aliases": true,
+    "literal_team_name_match": true,
+    "local_blue_win": true,
+    "external_blue_win": true,
+    "result_match": true,
+    "external_complementary_outcomes": true,
+    "local_duration_seconds": 1722,
+    "external_duration_seconds": 1722,
+    "duration_difference_seconds": 0,
+    "early_fields": {
+      "golddiffat15": {
+        "local": 2509,
+        "external": 2509,
+        "match": true,
+        "blue_player_values": [
+          1760,
+          615,
+          381,
+          -1867,
+          1620
+        ],
+        "red_player_values": [
+          -1760,
+          -615,
+          -381,
+          1867,
+          -1620
+        ]
+      },
+      "csdiffat15": {
+        "local": 64,
+        "external": 64,
+        "match": true,
+        "blue_player_values": [
+          36,
+          17,
+          -10,
+          -91,
+          112
+        ],
+        "red_player_values": [
+          -36,
+          -17,
+          10,
+          91,
+          -112
+        ]
+      },
+      "xpdiffat15": {
+        "local": 1901,
+        "external": 1901,
+        "match": true,
+        "blue_player_values": [
+          1008,
+          399,
+          -192,
+          -888,
+          1574
+        ],
+        "red_player_values": [
+          -1008,
+          -399,
+          192,
+          888,
+          -1574
+        ]
+      }
+    },
+    "gold_chart15": 2509.0,
+    "gold_chart15_match": true,
+    "kills15_status": "not_yet_checked",
+    "source_urls": [
+      "https://gol.gg/game/stats/55608/page-game/",
+      "https://gol.gg/game/stats/55608/page-fullstats/"
+    ],
+    "selection_reason": "First chronological game in patch 14.03"
+  },
+  {
+    "game_id": "LOLTMNT03_48260",
+    "game_number": 1,
+    "local_date": "2024-03-06",
+    "external_date": "2024-03-06",
+    "date_match": true,
+    "local_patch": "14.04",
+    "external_patch": "14.4",
+    "patch_match": true,
+    "local_blue": "HANJIN BRION",
+    "external_blue": "OK BRION",
+    "local_red": "DRX",
+    "external_red": "DRX",
+    "team_side_match_with_documented_aliases": true,
+    "literal_team_name_match": false,
+    "local_blue_win": false,
+    "external_blue_win": false,
+    "result_match": true,
+    "external_complementary_outcomes": true,
+    "local_duration_seconds": 1851,
+    "external_duration_seconds": 1851,
+    "duration_difference_seconds": 0,
+    "early_fields": {
+      "golddiffat15": {
+        "local": 972,
+        "external": 972,
+        "match": true,
+        "blue_player_values": [
+          402,
+          91,
+          448,
+          99,
+          -68
+        ],
+        "red_player_values": [
+          -402,
+          -91,
+          -448,
+          -99,
+          68
+        ]
+      },
+      "csdiffat15": {
+        "local": -6,
+        "external": -6,
+        "match": true,
+        "blue_player_values": [
+          12,
+          -7,
+          8,
+          -7,
+          -12
+        ],
+        "red_player_values": [
+          -12,
+          7,
+          -8,
+          7,
+          12
+        ]
+      },
+      "xpdiffat15": {
+        "local": -248,
+        "external": -248,
+        "match": true,
+        "blue_player_values": [
+          -65,
+          -119,
+          584,
+          476,
+          -1124
+        ],
+        "red_player_values": [
+          65,
+          119,
+          -584,
+          -476,
+          1124
+        ]
+      }
+    },
+    "gold_chart15": 972.0,
+    "gold_chart15_match": true,
+    "kills15_status": "not_yet_checked",
+    "source_urls": [
+      "https://gol.gg/game/stats/56507/page-game/",
+      "https://gol.gg/game/stats/56507/page-fullstats/"
+    ],
+    "selection_reason": "First chronological game in patch 14.04"
+  },
+  {
+    "game_id": "LOLTMNT01_71870",
+    "game_number": 1,
+    "local_date": "2024-03-20",
+    "external_date": "2024-03-20",
+    "date_match": true,
+    "local_patch": "14.05",
+    "external_patch": "14.5",
+    "patch_match": true,
+    "local_blue": "DRX",
+    "external_blue": "DRX",
+    "local_red": "Gen.G",
+    "external_red": "Gen.G eSports",
+    "team_side_match_with_documented_aliases": true,
+    "literal_team_name_match": false,
+    "local_blue_win": false,
+    "external_blue_win": false,
+    "result_match": true,
+    "external_complementary_outcomes": true,
+    "local_duration_seconds": 1500,
+    "external_duration_seconds": 1500,
+    "duration_difference_seconds": 0,
+    "early_fields": {
+      "golddiffat15": {
+        "local": -4170,
+        "external": -4170,
+        "match": true,
+        "blue_player_values": [
+          -2059,
+          -1088,
+          -439,
+          -651,
+          67
+        ],
+        "red_player_values": [
+          2059,
+          1088,
+          439,
+          651,
+          -67
+        ]
+      },
+      "csdiffat15": {
+        "local": -51,
+        "external": -51,
+        "match": true,
+        "blue_player_values": [
+          -25,
+          -16,
+          -4,
+          0,
+          -6
+        ],
+        "red_player_values": [
+          25,
+          16,
+          4,
+          0,
+          6
+        ]
+      },
+      "xpdiffat15": {
+        "local": -2093,
+        "external": -2093,
+        "match": true,
+        "blue_player_values": [
+          -167,
+          -1440,
+          -216,
+          -461,
+          191
+        ],
+        "red_player_values": [
+          167,
+          1440,
+          216,
+          461,
+          -191
+        ]
+      }
+    },
+    "gold_chart15": -4170.0,
+    "gold_chart15_match": true,
+    "kills15_status": "not_yet_checked",
+    "source_urls": [
+      "https://gol.gg/game/stats/57140/page-game/",
+      "https://gol.gg/game/stats/57140/page-fullstats/"
+    ],
+    "selection_reason": "First chronological game in patch 14.05"
+  },
+  {
+    "game_id": "LOLTMNT02_66852",
+    "game_number": 1,
+    "local_date": "2024-03-30",
+    "external_date": "2024-03-30",
+    "date_match": true,
+    "local_patch": "14.06",
+    "external_patch": "14.6",
+    "patch_match": true,
+    "local_blue": "Hanwha Life Esports",
+    "external_blue": "Hanwha Life eSports",
+    "local_red": "DN SOOPers",
+    "external_red": "Kwangdong Freecs",
+    "team_side_match_with_documented_aliases": true,
+    "literal_team_name_match": false,
+    "local_blue_win": true,
+    "external_blue_win": true,
+    "result_match": true,
+    "external_complementary_outcomes": true,
+    "local_duration_seconds": 2169,
+    "external_duration_seconds": 2169,
+    "duration_difference_seconds": 0,
+    "early_fields": {
+      "golddiffat15": {
+        "local": -639,
+        "external": -639,
+        "match": true,
+        "blue_player_values": [
+          -670,
+          -368,
+          236,
+          325,
+          -162
+        ],
+        "red_player_values": [
+          670,
+          368,
+          -236,
+          -325,
+          162
+        ]
+      },
+      "csdiffat15": {
+        "local": 8,
+        "external": 8,
+        "match": true,
+        "blue_player_values": [
+          -11,
+          -5,
+          4,
+          6,
+          14
+        ],
+        "red_player_values": [
+          11,
+          5,
+          -4,
+          -6,
+          -14
+        ]
+      },
+      "xpdiffat15": {
+        "local": -667,
+        "external": -667,
+        "match": true,
+        "blue_player_values": [
+          269,
+          -562,
+          -166,
+          -174,
+          -34
+        ],
+        "red_player_values": [
+          -269,
+          562,
+          166,
+          174,
+          34
+        ]
+      }
+    },
+    "gold_chart15": -639.0,
+    "gold_chart15_match": true,
+    "kills15_status": "not_yet_checked",
+    "source_urls": [
+      "https://gol.gg/game/stats/57384/page-game/",
+      "https://gol.gg/game/stats/57384/page-fullstats/"
+    ],
+    "selection_reason": "First chronological game in patch 14.06"
+  },
+  {
+    "game_id": "LOLTMNT01_120250",
+    "game_number": 1,
+    "local_date": "2024-06-12",
+    "external_date": "2024-06-12",
+    "date_match": true,
+    "local_patch": "14.11",
+    "external_patch": "14.11",
+    "patch_match": true,
+    "local_blue": "Dplus Kia",
+    "external_blue": "Dplus KIA",
+    "local_red": "Hanwha Life Esports",
+    "external_red": "Hanwha Life eSports",
+    "team_side_match_with_documented_aliases": true,
+    "literal_team_name_match": false,
+    "local_blue_win": true,
+    "external_blue_win": true,
+    "result_match": true,
+    "external_complementary_outcomes": true,
+    "local_duration_seconds": 1519,
+    "external_duration_seconds": 1519,
+    "duration_difference_seconds": 0,
+    "early_fields": {
+      "golddiffat15": {
+        "local": 2598,
+        "external": 2598,
+        "match": true,
+        "blue_player_values": [
+          289,
+          190,
+          944,
+          621,
+          554
+        ],
+        "red_player_values": [
+          -289,
+          -190,
+          -944,
+          -621,
+          -554
+        ]
+      },
+      "csdiffat15": {
+        "local": -21,
+        "external": -21,
+        "match": true,
+        "blue_player_values": [
+          4,
+          -14,
+          -2,
+          -7,
+          -2
+        ],
+        "red_player_values": [
+          -4,
+          14,
+          2,
+          7,
+          2
+        ]
+      },
+      "xpdiffat15": {
+        "local": 1236,
+        "external": 1236,
+        "match": true,
+        "blue_player_values": [
+          -48,
+          -276,
+          852,
+          76,
+          632
+        ],
+        "red_player_values": [
+          48,
+          276,
+          -852,
+          -76,
+          -632
+        ]
+      }
+    },
+    "gold_chart15": 2598.0,
+    "gold_chart15_match": true,
+    "kills15_status": "not_yet_checked",
+    "source_urls": [
+      "https://gol.gg/game/stats/58327/page-game/",
+      "https://gol.gg/game/stats/58327/page-fullstats/"
+    ],
+    "selection_reason": "First chronological game in patch 14.11"
+  },
+  {
+    "game_id": "LOLTMNT02_108451",
+    "game_number": 1,
+    "local_date": "2024-06-19",
+    "external_date": "2024-06-19",
+    "date_match": true,
+    "local_patch": "14.12",
+    "external_patch": "14.12",
+    "patch_match": true,
+    "local_blue": "Nongshim RedForce",
+    "external_blue": "Nongshim RedForce",
+    "local_red": "DN SOOPers",
+    "external_red": "Kwangdong Freecs",
+    "team_side_match_with_documented_aliases": true,
+    "literal_team_name_match": false,
+    "local_blue_win": false,
+    "external_blue_win": false,
+    "result_match": true,
+    "external_complementary_outcomes": true,
+    "local_duration_seconds": 2200,
+    "external_duration_seconds": 2200,
+    "duration_difference_seconds": 0,
+    "early_fields": {
+      "golddiffat15": {
+        "local": 1170,
+        "external": 1170,
+        "match": true,
+        "blue_player_values": [
+          -661,
+          460,
+          1472,
+          143,
+          -244
+        ],
+        "red_player_values": [
+          661,
+          -460,
+          -1472,
+          -143,
+          244
+        ]
+      },
+      "csdiffat15": {
+        "local": 35,
+        "external": 35,
+        "match": true,
+        "blue_player_values": [
+          -32,
+          28,
+          19,
+          13,
+          7
+        ],
+        "red_player_values": [
+          32,
+          -28,
+          -19,
+          -13,
+          -7
+        ]
+      },
+      "xpdiffat15": {
+        "local": 855,
+        "external": 855,
+        "match": true,
+        "blue_player_values": [
+          -1243,
+          1678,
+          509,
+          460,
+          -549
+        ],
+        "red_player_values": [
+          1243,
+          -1678,
+          -509,
+          -460,
+          549
+        ]
+      }
+    },
+    "gold_chart15": 1170.0,
+    "gold_chart15_match": true,
+    "kills15_status": "not_yet_checked",
+    "source_urls": [
+      "https://gol.gg/game/stats/59273/page-game/",
+      "https://gol.gg/game/stats/59273/page-fullstats/"
+    ],
+    "selection_reason": "First chronological game in patch 14.12"
+  },
+  {
+    "game_id": "LOLTMNT02_37841",
+    "game_number": 2,
+    "local_date": "2024-02-01",
+    "external_date": "2024-02-01",
+    "date_match": true,
+    "local_patch": "14.01",
+    "external_patch": "14.1",
+    "patch_match": true,
+    "local_blue": "DRX",
+    "external_blue": "DRX",
+    "local_red": "T1",
+    "external_red": "T1",
+    "team_side_match_with_documented_aliases": true,
+    "literal_team_name_match": true,
+    "local_blue_win": false,
+    "external_blue_win": false,
+    "result_match": true,
+    "external_complementary_outcomes": true,
+    "local_duration_seconds": 1439,
+    "external_duration_seconds": 1439,
+    "duration_difference_seconds": 0,
+    "early_fields": {
+      "golddiffat15": {
+        "local": -6099,
+        "external": -6099,
+        "match": true,
+        "blue_player_values": [
+          -909,
+          -933,
+          -1883,
+          -171,
+          -2203
+        ],
+        "red_player_values": [
+          909,
+          933,
+          1883,
+          171,
+          2203
+        ]
+      },
+      "csdiffat15": {
+        "local": -120,
+        "external": -120,
+        "match": true,
+        "blue_player_values": [
+          -25,
+          -38,
+          -44,
+          83,
+          -96
+        ],
+        "red_player_values": [
+          25,
+          38,
+          44,
+          -83,
+          96
+        ]
+      },
+      "xpdiffat15": {
+        "local": -3744,
+        "external": -3744,
+        "match": true,
+        "blue_player_values": [
+          -118,
+          -1474,
+          -1449,
+          1867,
+          -2570
+        ],
+        "red_player_values": [
+          118,
+          1474,
+          1449,
+          -1867,
+          2570
+        ]
+      }
+    },
+    "gold_chart15": -6099.0,
+    "gold_chart15_match": true,
+    "kills15_status": "not_yet_checked",
+    "source_urls": [
+      "https://gol.gg/game/stats/54555/page-game/",
+      "https://gol.gg/game/stats/54555/page-fullstats/"
+    ],
+    "selection_reason": "Minimum training gold difference"
+  },
+  {
+    "game_id": "LOLTMNT02_24236",
+    "game_number": 1,
+    "local_date": "2024-01-19",
+    "external_date": "2024-01-19",
+    "date_match": true,
+    "local_patch": "14.01",
+    "external_patch": "14.1",
+    "patch_match": true,
+    "local_blue": "T1",
+    "external_blue": "T1",
+    "local_red": "DN SOOPers",
+    "external_red": "Kwangdong Freecs",
+    "team_side_match_with_documented_aliases": true,
+    "literal_team_name_match": false,
+    "local_blue_win": true,
+    "external_blue_win": true,
+    "result_match": true,
+    "external_complementary_outcomes": true,
+    "local_duration_seconds": 1556,
+    "external_duration_seconds": 1556,
+    "duration_difference_seconds": 0,
+    "early_fields": {
+      "golddiffat15": {
+        "local": 5977,
+        "external": 5977,
+        "match": true,
+        "blue_player_values": [
+          661,
+          393,
+          2106,
+          1487,
+          1330
+        ],
+        "red_player_values": [
+          -661,
+          -393,
+          -2106,
+          -1487,
+          -1330
+        ]
+      },
+      "csdiffat15": {
+        "local": 80,
+        "external": 80,
+        "match": true,
+        "blue_player_values": [
+          14,
+          -7,
+          34,
+          -2,
+          41
+        ],
+        "red_player_values": [
+          -14,
+          7,
+          -34,
+          2,
+          -41
+        ]
+      },
+      "xpdiffat15": {
+        "local": 2776,
+        "external": 2776,
+        "match": true,
+        "blue_player_values": [
+          34,
+          -73,
+          1615,
+          607,
+          593
+        ],
+        "red_player_values": [
+          -34,
+          73,
+          -1615,
+          -607,
+          -593
+        ]
+      }
+    },
+    "gold_chart15": 5977.0,
+    "gold_chart15_match": true,
+    "kills15_status": "not_yet_checked",
+    "source_urls": [
+      "https://gol.gg/game/stats/53891/page-game/",
+      "https://gol.gg/game/stats/53891/page-fullstats/"
+    ],
+    "selection_reason": "Maximum training gold difference"
+  },
+  {
+    "game_id": "LOLTMNT02_21295",
+    "game_number": 3,
+    "local_date": "2024-01-17",
+    "external_date": "2024-01-17",
+    "date_match": true,
+    "local_patch": "14.01",
+    "external_patch": "14.1",
+    "patch_match": true,
+    "local_blue": "T1",
+    "external_blue": "T1",
+    "local_red": "Gen.G",
+    "external_red": "Gen.G eSports",
+    "team_side_match_with_documented_aliases": true,
+    "literal_team_name_match": false,
+    "local_blue_win": false,
+    "external_blue_win": false,
+    "result_match": true,
+    "external_complementary_outcomes": true,
+    "local_duration_seconds": 2571,
+    "external_duration_seconds": 2571,
+    "duration_difference_seconds": 0,
+    "early_fields": {
+      "golddiffat15": {
+        "local": -3954,
+        "external": -3954,
+        "match": true,
+        "blue_player_values": [
+          -2,
+          -150,
+          -934,
+          -2439,
+          -429
+        ],
+        "red_player_values": [
+          2,
+          150,
+          934,
+          2439,
+          429
+        ]
+      },
+      "csdiffat15": {
+        "local": 0,
+        "external": 0,
+        "match": true,
+        "blue_player_values": [
+          14,
+          31,
+          1,
+          -28,
+          -18
+        ],
+        "red_player_values": [
+          -14,
+          -31,
+          -1,
+          28,
+          18
+        ]
+      },
+      "xpdiffat15": {
+        "local": -813,
+        "external": -813,
+        "match": true,
+        "blue_player_values": [
+          -515,
+          877,
+          182,
+          -1198,
+          -159
+        ],
+        "red_player_values": [
+          515,
+          -877,
+          -182,
+          1198,
+          159
+        ]
+      }
+    },
+    "gold_chart15": -3954.0,
+    "gold_chart15_match": true,
+    "kills15_status": "not_yet_checked",
+    "source_urls": [
+      "https://gol.gg/game/stats/53707/page-game/",
+      "https://gol.gg/game/stats/53707/page-fullstats/"
+    ],
+    "selection_reason": "First chronological game with zero CS or XP difference"
+  }
+]

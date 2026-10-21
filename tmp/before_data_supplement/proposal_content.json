@@ -1,0 +1,37 @@
+{
+  "title": "Early Game Advantages and Winning in League of Legends",
+  "sections": [
+    [
+      "Research Aim",
+      "I want to study how early advantages are related to winning in professional League of Legends. I will focus on gold, kills, experience, and creep score (CS), and compare patterns across leagues and game patches. The ten questions below use a shared dataset and analysis plan."
+    ],
+    [
+      "Data and Variables",
+      "I will use public team data from ChainCC, whose historical sources include Oracle's Elixir [1, 2]. After checking dates and early-game fields, I identified 1,637 available LCK and LEC games from 2024-2025. I will pair both teams' records and keep one row per game. The response is whether blue side wins. Variables include gold, kill, experience, and CS differences at 10 and 15 minutes, league, patch, and historical team strength."
+    ],
+    [
+      "Statistical Analysis",
+      "I will use R with dplyr, ggplot2, stats, splines, and pROC. I will report win and comeback proportions, then use logistic regression with nonlinear terms and interactions to study early advantages. Models will account for league and team strength estimated from earlier games. I will use week-block bootstrap intervals to account for some dependence between games. For Q10, I will develop models on 2024 games and test them on 2025 games, using log loss, Brier score, AUC, and calibration plots. Predictors will only use information available at the stated minute; final-game statistics will not be used as early predictors."
+    ],
+    [
+      "Expected Outcomes and Limitations",
+      "I expect larger gold leads to be associated with more wins, and 15-minute statistics to predict better than 10-minute statistics. Kills, experience, and CS may add less information after gold is included. Comebacks and league or patch differences will be estimated without assuming their size. These are expectations, not findings. Missing early data in the checked LPL records limits the study to LCK and LEC. Repeated teams and unmeasured factors also limit causal conclusions."
+    ]
+  ],
+  "questions": [
+    "Does blue side win more often than red side?",
+    "How is a gold lead at 15 minutes related to winning?",
+    "Does a kill lead add information beyond the gold difference at 15 minutes?",
+    "Does an experience lead add information beyond gold at 15 minutes?",
+    "Does a CS lead add information beyond gold at 15 minutes?",
+    "Does gaining ground from 10 to 15 minutes relate to winning after accounting for the initial gold gap?",
+    "How often do teams win after trailing by at least 2,000 gold at 15 minutes?",
+    "Is the relationship between a 15-minute gold lead and winning different in LCK and LEC?",
+    "Does the relationship between a 15-minute gold lead and winning change across patches?",
+    "Do 15-minute statistics predict match outcomes better than 10-minute statistics?"
+  ],
+  "refs": [
+    "[1] ChainCC. Open LoL Esports Dataset. Data and downloads: https://chaincc.lol/free/data",
+    "[2] ChainCC. Data sources and methodology: https://chaincc.lol/about/methodology"
+  ]
+}

@@ -1,0 +1,7 @@
+# core.autocrlf is on for this machine. Mark the data and binary artefacts
+# explicitly so no line-ending rewriting can ever touch them.
+*.gz   binary
+*.rds  binary
+*.png  binary
+*.pdf  binary
+*.docx binary

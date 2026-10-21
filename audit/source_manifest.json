@@ -1,0 +1,28 @@
+{
+  "verified_utc": "2026-09-25T01:50:33.055261+00:00",
+  "source": "https://chaincc.lol/free/data",
+  "methodology": "https://chaincc.lol/about/methodology",
+  "files": [
+    {
+      "year_label": 2024,
+      "url": "https://chaincc.lol/data/chaincc-teams-2024.csv.gz",
+      "file": "data\\raw\\chaincc-teams-2024.csv.gz",
+      "bytes": 2360699,
+      "sha256": "fa06ea4b8fdd29fa03317891d4ec6e8eddf3e0998a596cfb83b765f8b9243661"
+    },
+    {
+      "year_label": 2025,
+      "url": "https://chaincc.lol/data/chaincc-teams-2025.csv.gz",
+      "file": "data\\raw\\chaincc-teams-2025.csv.gz",
+      "bytes": 2341251,
+      "sha256": "2df393d4cce9c3895008f27bdd31ec29c129f011b5d5d7c63f6f7df8c71b78a7"
+    },
+    {
+      "year_label": 2026,
+      "url": "https://chaincc.lol/data/chaincc-teams-2026.csv.gz",
+      "file": "data\\raw\\chaincc-teams-2026.csv.gz",
+      "bytes": 2152138,
+      "sha256": "fb938aca7aaeb9f7504c0d728b32e56ce3a682bf5012e52f4a992f926b01efcf"
+    }
+  ]
+}

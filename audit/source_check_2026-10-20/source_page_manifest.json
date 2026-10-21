@@ -1,0 +1,254 @@
+[
+  {
+    "url": "https://gol.gg/tournament/tournament-matchlist/LCK%20Spring%202024/",
+    "file": "LCK_Spring_2024.html",
+    "sha256": "684703dd10af0db99bf25967850d9cd1862df25046f2635bfb16c15007492f0b",
+    "bytes": 592835,
+    "checked_utc": "2026-10-20T19:43:36.262846+00:00"
+  },
+  {
+    "url": "https://gol.gg/tournament/tournament-matchlist/LCK%20Spring%20Playoffs%202024/",
+    "file": "LCK_Spring_Playoffs_2024.html",
+    "sha256": "4bda92d33bacc834faec1d25e4aac88fcf714ed1cff05075bc5dc80124b7c3ba",
+    "bytes": 563590,
+    "checked_utc": "2026-10-20T19:43:47.677956+00:00"
+  },
+  {
+    "url": "https://gol.gg/tournament/tournament-matchlist/LCK%20Summer%202024/",
+    "file": "LCK_Summer_2024.html",
+    "sha256": "4f4a4e1094c93a9f24c8088748271ebf21763e9be36e6bc998aad55f98d93c51",
+    "bytes": 592925,
+    "checked_utc": "2026-10-20T19:44:01.505017+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/53702/page-summary/",
+    "file": "gol_53702_summary.html",
+    "sha256": "d66f952eff7fe9f14a492222dc3cd9f5ea63efe83472bdd532e2965539619188",
+    "bytes": 574984,
+    "checked_utc": "2026-10-20T19:44:10.294648+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/53702/page-game/",
+    "file": "gol_53702_game.html",
+    "sha256": "238379d35ef6f5ca5b5c576e27a0688b6a069915a97458443f7bf07cc44c3928",
+    "bytes": 624789,
+    "checked_utc": "2026-10-20T19:44:16.691006+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/53702/page-fullstats/",
+    "file": "gol_53702_fullstats.html",
+    "sha256": "3c0e17ab458060addc8dfe3ad4d05ad8001b01432c8593938d02f74b6687549d",
+    "bytes": 598217,
+    "checked_utc": "2026-10-20T19:44:21.787015+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/54907/page-summary/",
+    "file": "gol_54907_summary.html",
+    "sha256": "52020502f4f97b53d257772842af9eb899e77e6280042939011263f4984861f9",
+    "bytes": 575057,
+    "checked_utc": "2026-10-20T19:44:28.543292+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/54907/page-game/",
+    "file": "gol_54907_game.html",
+    "sha256": "7eb6a8265cfef04b43629402c492ea57893fe6cc8d67107cf06934d58cc5a542",
+    "bytes": 623362,
+    "checked_utc": "2026-10-20T19:44:34.157563+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/54907/page-fullstats/",
+    "file": "gol_54907_fullstats.html",
+    "sha256": "244344d1a0220b570ad04143917a85ccc1b472d91bf2f40c9bc57d3462620930",
+    "bytes": 598328,
+    "checked_utc": "2026-10-20T19:44:39.335195+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/55608/page-summary/",
+    "file": "gol_55608_summary.html",
+    "sha256": "d2bebb2252c9eaa914d10d046f76049109393f38411ca5e5ea86c376e8804f89",
+    "bytes": 580413,
+    "checked_utc": "2026-10-20T19:44:45.034927+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/55608/page-game/",
+    "file": "gol_55608_game.html",
+    "sha256": "bc80bf70e514ecb87ddaa42940c552def171244c2fe9272b4e4a15548d0a54eb",
+    "bytes": 623073,
+    "checked_utc": "2026-10-20T19:44:51.017616+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/55608/page-fullstats/",
+    "file": "gol_55608_fullstats.html",
+    "sha256": "be5062aab20493a0585295d99f195d7f8fcb1993cab95c6bf8f3963b30c05b1b",
+    "bytes": 598316,
+    "checked_utc": "2026-10-20T19:44:56.696257+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/56507/page-summary/",
+    "file": "gol_56507_summary.html",
+    "sha256": "a697a0ca5ea5769b4fb3ca73b3442ffd3910c5e3cd73a4c492417539b57c1ed4",
+    "bytes": 580423,
+    "checked_utc": "2026-10-20T19:45:03.057407+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/56507/page-game/",
+    "file": "gol_56507_game.html",
+    "sha256": "eaa9b2fe5f593f5b6fe434913b0c9af8f297eb835e8dce564199f0836b40ddb6",
+    "bytes": 623457,
+    "checked_utc": "2026-10-20T19:45:08.646687+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/56507/page-fullstats/",
+    "file": "gol_56507_fullstats.html",
+    "sha256": "a4999712932c3920e6126405d2548fbc92eab7e0c56bd2d4b89a1dffe3443b94",
+    "bytes": 598367,
+    "checked_utc": "2026-10-20T19:45:12.887216+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/57140/page-summary/",
+    "file": "gol_57140_summary.html",
+    "sha256": "463cdf25f9b4e6ce4ecc0fd9e804b1a2fd3e0fa25e0e589e98d039774990b7c3",
+    "bytes": 575284,
+    "checked_utc": "2026-10-20T19:45:18.293364+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/57140/page-game/",
+    "file": "gol_57140_game.html",
+    "sha256": "0b729d3bb80e26ba7fb4aa7927770a93c52a5ce8c0a3ca7ab2c3693b5d2f9fd3",
+    "bytes": 622185,
+    "checked_utc": "2026-10-20T19:45:21.941126+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/57140/page-fullstats/",
+    "file": "gol_57140_fullstats.html",
+    "sha256": "4847ff34248f736e69242c28929f6f720b03105f3f46e4eb9e45a13acbb96405",
+    "bytes": 598114,
+    "checked_utc": "2026-10-20T19:45:26.050315+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/57384/page-summary/",
+    "file": "gol_57384_summary.html",
+    "sha256": "a20ee4c1f8925ce310526a995c93285d5b9bde20283379cf8f65addf4ff4ff33",
+    "bytes": 581345,
+    "checked_utc": "2026-10-20T19:45:33.790686+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/57384/page-game/",
+    "file": "gol_57384_game.html",
+    "sha256": "2a18411dffb9f1e613a6f3eb78824926ec329b09d010c2bf3bd481f18ecae339",
+    "bytes": 625209,
+    "checked_utc": "2026-10-20T19:45:35.607382+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/57384/page-fullstats/",
+    "file": "gol_57384_fullstats.html",
+    "sha256": "bee233640ef13d2bab0562ff59d05191d45e060f002f38fcb5fbfddc2a854c2a",
+    "bytes": 598400,
+    "checked_utc": "2026-10-20T19:45:37.122818+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/58327/page-summary/",
+    "file": "gol_58327_summary.html",
+    "sha256": "2645cff3de5202ea7f0aad0e57b35f20113ff1409f7c909041a9f123bb2e7c35",
+    "bytes": 580548,
+    "checked_utc": "2026-10-20T19:45:44.633978+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/58327/page-game/",
+    "file": "gol_58327_game.html",
+    "sha256": "857f85deacb0ae10e95aa6a6e804982cf31f855209aa56905983053f7f612631",
+    "bytes": 623228,
+    "checked_utc": "2026-10-20T19:45:46.440383+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/58327/page-fullstats/",
+    "file": "gol_58327_fullstats.html",
+    "sha256": "782fa18488b973a10daee711d82caf42f6eeafaf7366ba486bc97dd631671d54",
+    "bytes": 598385,
+    "checked_utc": "2026-10-20T19:45:48.447999+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/59273/page-summary/",
+    "file": "gol_59273_summary.html",
+    "sha256": "8e31f8c2732b53afe3c9db9697b5dfaa127a65dc9ba48e06375011d506cc8cd8",
+    "bytes": 575066,
+    "checked_utc": "2026-10-20T19:45:54.208971+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/59273/page-game/",
+    "file": "gol_59273_game.html",
+    "sha256": "877b7a1c69b865f114aca6dee623a77dfdb12aaa1316c0e3a443879c6a6e3560",
+    "bytes": 623355,
+    "checked_utc": "2026-10-20T19:45:55.996747+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/59273/page-fullstats/",
+    "file": "gol_59273_fullstats.html",
+    "sha256": "7ae457a11cfde1dce9d43ea5530e00b8206ca3b6fbeb62786192bfb4a34c6002",
+    "bytes": 598219,
+    "checked_utc": "2026-10-20T19:45:57.265833+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/54554/page-summary/",
+    "file": "gol_54554_summary.html",
+    "sha256": "ed94a3f33944e57c2717990e63e9b30f9e47c9c6252b59c93ec8e9f4f65adf17",
+    "bytes": 574893,
+    "checked_utc": "2026-10-20T19:46:01.406591+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/54555/page-game/",
+    "file": "gol_54555_game.html",
+    "sha256": "4fc329239d4bf19f6445f078a0bcf5c3c86025d3cad1318481275a984ac60856",
+    "bytes": 622101,
+    "checked_utc": "2026-10-20T19:46:02.895551+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/54555/page-fullstats/",
+    "file": "gol_54555_fullstats.html",
+    "sha256": "f8c4214b4d916f5378fd58e03534a393b6e110ca9de775ecfeda8023bccff681",
+    "bytes": 598096,
+    "checked_utc": "2026-10-20T19:46:04.630757+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/53891/page-summary/",
+    "file": "gol_53891_summary.html",
+    "sha256": "858d1fbbb0bb021fbf321eff593fa36d2bb1dbfd7de31a24e086d28d85de174f",
+    "bytes": 574951,
+    "checked_utc": "2026-10-20T19:46:09.606851+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/53891/page-game/",
+    "file": "gol_53891_game.html",
+    "sha256": "9a88b0782287f60c9c7c5a2b9ed88d5ebdece356048d42ef592f26dce63f1f4b",
+    "bytes": 622563,
+    "checked_utc": "2026-10-20T19:46:09.611244+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/53891/page-fullstats/",
+    "file": "gol_53891_fullstats.html",
+    "sha256": "dd196538d37aee41772062a47f93fc07cdbebff2134f003624e72d7a1525a975",
+    "bytes": 598136,
+    "checked_utc": "2026-10-20T19:46:09.614299+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/53705/page-summary/",
+    "file": "gol_53705_summary.html",
+    "sha256": "de8c47d6b26217cc56aab4863c9f5bdbf07d0e17057d0505c12dc60a2711de83",
+    "bytes": 580367,
+    "checked_utc": "2026-10-20T19:46:15.072786+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/53707/page-game/",
+    "file": "gol_53707_game.html",
+    "sha256": "9ecc20b67f812e8db3c145bc7bb276c38ff7d4767896c614d1c83257123b1f06",
+    "bytes": 624884,
+    "checked_utc": "2026-10-20T19:46:16.490353+00:00"
+  },
+  {
+    "url": "https://gol.gg/game/stats/53707/page-fullstats/",
+    "file": "gol_53707_fullstats.html",
+    "sha256": "4fe30e38e62ac38eee0804de100849e2d11b969154d4eaea888ee8c665c4dbe4",
+    "bytes": 598322,
+    "checked_utc": "2026-10-20T19:46:18.603551+00:00"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "file": "data\\raw\\chaincc-teams-2024.csv.gz",
+    "expected": "fa06ea4b8fdd29fa03317891d4ec6e8eddf3e0998a596cfb83b765f8b9243661",
+    "actual": "fa06ea4b8fdd29fa03317891d4ec6e8eddf3e0998a596cfb83b765f8b9243661",
+    "matches": true
+  },
+  {
+    "file": "data\\raw\\chaincc-teams-2025.csv.gz",
+    "expected": "2df393d4cce9c3895008f27bdd31ec29c129f011b5d5d7c63f6f7df8c71b78a7",
+    "actual": "2df393d4cce9c3895008f27bdd31ec29c129f011b5d5d7c63f6f7df8c71b78a7",
+    "matches": true
+  },
+  {
+    "file": "data\\raw\\chaincc-teams-2026.csv.gz",
+    "expected": "fb938aca7aaeb9f7504c0d728b32e56ce3a682bf5012e52f4a992f926b01efcf",
+    "actual": "fb938aca7aaeb9f7504c0d728b32e56ce3a682bf5012e52f4a992f926b01efcf",
+    "matches": true
+  }
+]

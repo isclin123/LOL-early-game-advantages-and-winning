@@ -1,0 +1,16 @@
+{
+  "scope": "sections 1-6 (preprocessing and training EDA)",
+  "analysis_date": "2026-10-20",
+  "raw_hashes_match": true,
+  "candidate_games": 3159,
+  "excluded_games": 1522,
+  "retained_games": 1637,
+  "split_sizes": [313, 169, 555, 306, 294],
+  "reconstructed_frozen_cohort": true,
+  "frozen_split_ids_match": true,
+  "initial_training_blue_wins": 161,
+  "preprocessing_fit_on": "initial training only",
+  "eda_outcomes_from": "initial training only",
+  "models_fitted_before_section_7": false,
+  "test_scores_computed": false
+}

@@ -1,0 +1,29 @@
+{
+  "check_date": "2026-10-20",
+  "r_version": "R version 4.5.2 (2025-10-31 ucrt)",
+  "stan_build_tools_available": true,
+  "packages": {
+    "brms": "2.23.0",
+    "rstan": "2.32.7",
+    "StanHeaders": "2.32.10",
+    "ranger": "0.18.0",
+    "randomForest": "4.7.1.2",
+    "loo": "2.9.0",
+    "bayesplot": "1.15.0",
+    "posterior": "1.7.0",
+    "cluster": "2.1.8.1",
+    "pROC": "1.19.0.1",
+    "lme4": "1.1.37"
+  },
+  "brms_reserved_prefix_clash": false,
+  "ranger_probability_forest_ok": true,
+  "planned_formula_compiled": true,
+  "compile_and_sample_seconds": 302,
+  "max_rhat": 1.011,
+  "divergent_transitions": 0,
+  "unseen_level_prediction_ok": true,
+  "unseen_patch_mean_probabilities": [0.207, 0.508, 0.803],
+  "fitted_on": "simulated data only",
+  "project_data_read": false,
+  "analysis_results_produced": false
+}

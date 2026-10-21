@@ -1,0 +1,38 @@
+{
+  "title": "Early Game Advantages and Winning in League of Legends",
+  "sections": [
+    [
+      "Research Aim",
+      "I will study how early advantages relate to winning in professional League of Legends. The project moves from descriptive analysis and regression to clustering, Bayesian modeling, and machine learning, using ten related questions."
+    ],
+    [
+      "Data and Variables",
+      "I will use ChainCC team data, whose historical sources include Oracle's Elixir [1, 2]. The checked sample contains 1,637 LCK and LEC games from 2024-2025, with one paired record per game. The response is whether blue side wins. Variables include gold, kill, experience, and creep score (CS) differences at 10 and 15 minutes, league, patch, and prior team strength. I will seek Oracle's Elixir records [3] to check dates and missing values and remove duplicate matches. Checked 2023 games may support supplementary analyses, while the main comparison remains 2024-2025."
+    ],
+    [
+      "Statistical Analysis",
+      "I will use R with stats, cluster, brms, glmnet, ranger, and ggplot2. Logistic regression will include nonlinear gold terms and controls for league and prior team strength. K-means will use standardized early statistics, excluding outcomes; silhouette scores and resampling will assess cluster quality. Bayesian hierarchical logistic regression will estimate patch differences through partial pooling, with prior sensitivity and posterior predictive checks. Elastic net and random forests will be compared with logistic regression. Predictive models and preprocessing will be developed using rolling validation within 2024, then frozen for testing on 2025. Evaluation will use log loss, Brier score, AUC, and calibration; week-block bootstrap intervals will measure uncertainty in proportions and predictive comparisons. Only information available at each prediction time will be used."
+    ],
+    [
+      "Expected Outcomes and Limitations",
+      "I expect larger gold leads to be associated with more wins and 15-minute models to predict better. Clusters may be weak, patch differences uncertain, and machine learning may not improve on regression. These are hypotheses, not findings. Missing LPL early data limits coverage; repeated teams, small subgroups, and game changes limit precision and generalization. Observational associations will not be interpreted as causal effects."
+    ]
+  ],
+  "questions": [
+    "How do blue-side win rates differ between LCK and LEC?",
+    "How often do teams win after trailing by at least 2,000 gold at 15 minutes?",
+    "Is the relationship between a 15-minute gold lead and winning nonlinear?",
+    "Do kills, experience, and CS add information beyond gold at 15 minutes?",
+    "Does gold gain from 10 to 15 minutes relate to winning after accounting for the initial gap?",
+    "What early-game patterns can clustering identify from 15-minute statistics?",
+    "Do the 2024 clusters remain useful in 2025, and how do their win rates differ?",
+    "How does the gold-win relationship vary across patches in a Bayesian hierarchical model?",
+    "Do elastic net and random forests predict wins better than logistic regression?",
+    "How does prediction performance change from 10 to 15 minutes across these models?"
+  ],
+  "refs": [
+    "[1] ChainCC. Open LoL Esports Dataset. Data and downloads: https://chaincc.lol/free/data",
+    "[2] ChainCC. Data sources and methodology: https://chaincc.lol/about/methodology",
+    "[3] Oracle's Elixir. Planned source for data checks: https://oracleselixir.com/tools/downloads"
+  ]
+}

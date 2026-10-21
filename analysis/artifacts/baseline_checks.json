@@ -1,0 +1,17 @@
+{
+  "scope": "section 7 (logistic regression baseline)",
+  "analysis_date": "2026-10-20",
+  "fitted_on": "initial training only",
+  "training_games": 313,
+  "validation_games": 169,
+  "converged": true,
+  "boundary_fit": false,
+  "max_vif": 7.9902,
+  "condition_number": 6.8965,
+  "functional_form_bins_flagged": 1,
+  "predeclared_spline_comparison_run": true,
+  "validation_log_loss": 0.5162,
+  "reference_validation_log_loss": 0.6927,
+  "test_partitions_scored": false,
+  "test_partitions_read": false
+}
